@@ -1,0 +1,5 @@
+{
+  "name": "Web SSH Terminal",
+  "description": "A fully functional web-based SSH client using xterm.js and ssh2.",
+  "requestFramePermissions": []
+}
